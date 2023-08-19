@@ -1,5 +1,5 @@
 body {
-  background-color: lightgreen;
+  background-color: CadetBlue;
 }
 
 h1 {
@@ -12,10 +12,14 @@ p {
   font-size: 20px;
 }
 
-#titulotabla{
-	color: blue;  
+#titulotabla {
+  color: DarkSlateGray;
 }
 
-#contenidotabla{
-	color: red; 
+#contenidotabla {
+  color: DarkSlateGray;
+}
+#nivel 
+{
+  color: darkslategray;
 }
